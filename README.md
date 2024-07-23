@@ -10,3 +10,5 @@
 
 - Python 3.x
 - RabbitMQ
+- PyTorch
+- OpenCV
